@@ -59,7 +59,7 @@ TARGET_KERNEL_CLANG_COMPILE := true
 TARGET_KERNEL_CONFIG := cepheus_defconfig
 TARGET_COMPILE_WITH_MSM_KERNEL := true
 ifeq ($(TARGET_PREBUILT_KERNEL),)
-  TARGET_KERNEL_SOURCE := kernel/xiaomi/sm8150
+  TARGET_KERNEL_SOURCE := kernel/xiaomi/cepheus
 endif
 
 # Platform
