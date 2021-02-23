@@ -1,4 +1,5 @@
-Copyright (C) 2020 Project 404
+Copyright (C) 2020 [Project 404](https://github.com/markakash/device_xiaomi_cepheus)
+Copyright (C) 2021 Corvus ROM
 
 Device configuration for Xiaomi Mi 9
 =========================================
