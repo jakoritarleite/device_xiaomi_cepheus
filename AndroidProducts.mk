@@ -13,4 +13,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/p404_cepheus.mk
+    $(LOCAL_DIR)/corvus_cepheus.mk
